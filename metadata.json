@@ -1,0 +1,7 @@
+{
+  "name": "GenzAI",
+  "description": "A professional AI chatbot powered by Gemini 3 Pro with a modern dark aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
